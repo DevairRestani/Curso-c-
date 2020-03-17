@@ -1,0 +1,11 @@
+C:\Users\devair.restani\Desktop\curso C#\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.exe
+C:\Users\devair.restani\Desktop\curso C#\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.deps.json
+C:\Users\devair.restani\Desktop\curso C#\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.json
+C:\Users\devair.restani\Desktop\curso C#\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.runtimeconfig.dev.json
+C:\Users\devair.restani\Desktop\curso C#\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.dll
+C:\Users\devair.restani\Desktop\curso C#\Estoque\Estoque\bin\Debug\netcoreapp3.1\Estoque.pdb
+C:\Users\devair.restani\Desktop\curso C#\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.csprojAssemblyReference.cache
+C:\Users\devair.restani\Desktop\curso C#\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfoInputs.cache
+C:\Users\devair.restani\Desktop\curso C#\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.AssemblyInfo.cs
+C:\Users\devair.restani\Desktop\curso C#\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.dll
+C:\Users\devair.restani\Desktop\curso C#\Estoque\Estoque\obj\Debug\netcoreapp3.1\Estoque.pdb

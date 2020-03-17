@@ -1,0 +1,11 @@
+C:\Users\devair.restani\Desktop\curso C#\AreaTrianguloComObjeto\AreaTrianguloComObjeto\bin\Debug\netcoreapp3.1\AreaTrianguloComObjeto.exe
+C:\Users\devair.restani\Desktop\curso C#\AreaTrianguloComObjeto\AreaTrianguloComObjeto\bin\Debug\netcoreapp3.1\AreaTrianguloComObjeto.deps.json
+C:\Users\devair.restani\Desktop\curso C#\AreaTrianguloComObjeto\AreaTrianguloComObjeto\bin\Debug\netcoreapp3.1\AreaTrianguloComObjeto.runtimeconfig.json
+C:\Users\devair.restani\Desktop\curso C#\AreaTrianguloComObjeto\AreaTrianguloComObjeto\bin\Debug\netcoreapp3.1\AreaTrianguloComObjeto.runtimeconfig.dev.json
+C:\Users\devair.restani\Desktop\curso C#\AreaTrianguloComObjeto\AreaTrianguloComObjeto\bin\Debug\netcoreapp3.1\AreaTrianguloComObjeto.dll
+C:\Users\devair.restani\Desktop\curso C#\AreaTrianguloComObjeto\AreaTrianguloComObjeto\bin\Debug\netcoreapp3.1\AreaTrianguloComObjeto.pdb
+C:\Users\devair.restani\Desktop\curso C#\AreaTrianguloComObjeto\AreaTrianguloComObjeto\obj\Debug\netcoreapp3.1\AreaTrianguloComObjeto.csprojAssemblyReference.cache
+C:\Users\devair.restani\Desktop\curso C#\AreaTrianguloComObjeto\AreaTrianguloComObjeto\obj\Debug\netcoreapp3.1\AreaTrianguloComObjeto.AssemblyInfoInputs.cache
+C:\Users\devair.restani\Desktop\curso C#\AreaTrianguloComObjeto\AreaTrianguloComObjeto\obj\Debug\netcoreapp3.1\AreaTrianguloComObjeto.AssemblyInfo.cs
+C:\Users\devair.restani\Desktop\curso C#\AreaTrianguloComObjeto\AreaTrianguloComObjeto\obj\Debug\netcoreapp3.1\AreaTrianguloComObjeto.dll
+C:\Users\devair.restani\Desktop\curso C#\AreaTrianguloComObjeto\AreaTrianguloComObjeto\obj\Debug\netcoreapp3.1\AreaTrianguloComObjeto.pdb
